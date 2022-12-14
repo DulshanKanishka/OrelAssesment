@@ -1,0 +1,25 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/assesment/node_modules
+/assesment/.pnp
+assesment/.pnp.js
+
+# testing
+/assesment/coverage
+
+# production
+/assesment/build
+
+# misc
+assesment/.DS_Store
+assesment/.env.local
+assesment/.env.development.local
+assesment/.env.test.local
+assesment/.env.production.local
+
+assesment/npm-debug.log*
+assesment/yarn-debug.log*
+assesment/yarn-error.log*
+
+/assesment/.idea
