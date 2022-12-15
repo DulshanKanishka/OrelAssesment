@@ -1,5 +1,6 @@
 let apiBaseUrl = "https://restcountries.com/v3.1/";
 
+// get all Country
 
 const getCountriessFromApi = () =>
     new Promise((resolve, reject) => {
@@ -18,6 +19,7 @@ const getCountriessFromApi = () =>
             });
     });
 
+// Search Specific Country
 const searchCountryFromApi = (queryy) =>
     new Promise((resolve, reject) => {
 
