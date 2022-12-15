@@ -1,0 +1,21 @@
+.breadcromb_holder {
+    background: #eeeeeec7;
+    margin-top: 15px;
+    padding: 5px 15px;
+    border-radius: 2px;
+}
+.breadcromb_txt_main {
+    margin-bottom: 0;
+    font-size: 12px;
+    color: gray;
+}
+.breadcromb_txt_span {
+    margin-bottom: 0;
+    font-size: 12px;
+    color: blue;
+}
+.country_title {
+    margin-top: 20px;
+    font-size: 35px;
+    color: #5d5d5d;
+}
