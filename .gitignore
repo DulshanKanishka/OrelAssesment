@@ -2,6 +2,7 @@
 
 # dependencies
 /assesment/node_modules
+/node_modules
 /assesment/.pnp
 assesment/.pnp.js
 

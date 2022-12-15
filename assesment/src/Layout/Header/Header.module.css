@@ -1,0 +1,15 @@
+.aboutLink {
+    text-decoration: none;
+    color: #9d9d9d !important;
+}
+
+.mainText {
+    color: #9d9d9d !important;
+    font-size: 16px !important;
+    font-weight: 500;
+}
+
+.navmain {
+    background-color: #f7f6f6 !important;
+    border-bottom: 1px solid #e0dfdf;
+}
